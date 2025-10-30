@@ -75,16 +75,14 @@ Go is an open-source programming language created by Google in 2009. It's design
 ## 🛠️ Installation Guide
 
 ### Step 1: Install Go
-If you don't already have Go installed, download it from the official website:  
-**https://go.dev/dl/**
+Install Go
+Download from: https://go.dev/dl/
 
-After installation, verify it by running:
-```bash
+Verify installation:
+
+bash
 go version
-You should see something like:
 
-text
-go version go1.23.2 windows/amd64
 Step 2: Set Up Project Workspace
 bash
 # Create a new Go project
