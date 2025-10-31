@@ -1,4 +1,4 @@
-**# 🧠 Go Task Manager
+# 🧠 Go Task Manager
 
 ---
 
