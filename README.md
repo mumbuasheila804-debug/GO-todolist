@@ -73,8 +73,12 @@ Go is an open-source programming language created by Google in 2009. It's design
 markdown
 ---
 
- 
-### ⚙️ Step 1: Install Go
+## ⚙️ Step 1: Install and Verify Go
+
+### 🧩 Download Go
+If you don’t already have Go installed, download it from the official page:  
+🔗 [https://go.dev/doc/install](https://go.dev/doc/install)
+
 
 Verify installation:
 
